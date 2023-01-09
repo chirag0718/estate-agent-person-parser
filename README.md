@@ -28,9 +28,10 @@ DB_PORT=3306
 DB_DATABASE=street_group
 DB_USERNAME=root
 DB_PASSWORD=
-```bash
 
 Once database configutation is done then after run migration command to create tables.
+```bash
+
 ```bash
 cd estate-agent-person-parser
 php artisan migrate
