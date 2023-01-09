@@ -48,6 +48,10 @@ npm run dev
 
 ```
 
+## Home page UI
+![image](https://user-images.githubusercontent.com/14096311/211317486-687a187e-28ed-463a-8e10-d8adf0caf4f5.png)
+
+
 ## Author
 Chiragkumar Patel
 
