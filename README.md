@@ -51,6 +51,3 @@ npm run dev
 ## Author
 Chiragkumar Patel
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
