@@ -1,4 +1,4 @@
-# Estate Agent Person Parser (Street Group)
+# Estate Agent Person Parser
 
 A simple programme that reads CSV files from the local filesystem. This project was developed using Laravel and React JS in order to load a.csv file and show the data of the people whose names it contains.
 
@@ -48,8 +48,6 @@ npm run dev
 
 ```
 
-## Home page UI
-![image](https://user-images.githubusercontent.com/14096311/211317486-687a187e-28ed-463a-8e10-d8adf0caf4f5.png)
 
 
 ## Author
